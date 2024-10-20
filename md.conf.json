@@ -1,0 +1,21 @@
+{
+  "input_folder": "files",
+  "output_folder": "out",
+  "files": [
+    {
+      "name": "pt",
+      "inputs": ["intro.pt.md", "body.md", "infograph.pt.md", "trailer.md"],
+      "output": "README.md"
+    },
+    {
+      "name": "en",
+      "inputs": ["intro.en.md", "body.md", "infograph.en.md", "trailer.md"],
+      "output": "README.en.md"
+    },
+    {
+      "name": "es",
+      "inputs": ["intro.es.md", "body.md", "infograph.es.md", "trailer.md"],
+      "output": "README.es.md"
+    }
+  ]
+}
