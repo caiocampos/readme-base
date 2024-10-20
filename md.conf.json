@@ -1,20 +1,55 @@
 {
   "input_folder": "files",
   "output_folder": "out",
+  "template_files": [
+    {
+      "name": "infographic.pt",
+      "input": "infographic.md",
+      "parameters": [
+        {
+          "name": "infographic",
+          "value": "Infográfico"
+        }
+      ],
+      "output": "infographic.pt.md"
+    },
+    {
+      "name": "infographic.en",
+      "input": "infographic.md",
+      "parameters": [
+        {
+          "name": "infographic",
+          "value": "Infographic"
+        }
+      ],
+      "output": "infographic.en.md"
+    },
+    {
+      "name": "infographic.es",
+      "input": "infographic.md",
+      "parameters": [
+        {
+          "name": "infographic",
+          "value": "Infografía"
+        }
+      ],
+      "output": "infographic.es.md"
+    }
+  ],
   "files": [
     {
       "name": "pt",
-      "inputs": ["intro.pt.md", "body.md", "infograph.pt.md", "trailer.md"],
+      "inputs": ["intro.pt.md", "body.md", "infographic.pt.md", "trailer.md"],
       "output": "README.md"
     },
     {
       "name": "en",
-      "inputs": ["intro.en.md", "body.md", "infograph.en.md", "trailer.md"],
+      "inputs": ["intro.en.md", "body.md", "infographic.en.md", "trailer.md"],
       "output": "README.en.md"
     },
     {
       "name": "es",
-      "inputs": ["intro.es.md", "body.md", "infograph.es.md", "trailer.md"],
+      "inputs": ["intro.es.md", "body.md", "infographic.es.md", "trailer.md"],
       "output": "README.es.md"
     }
   ]
