@@ -1,4 +1,4 @@
 
 <div align="center">
-  <img src="https://github.com/caiocampos/CaioCampos/blob/base/files/animated.svg" />
+  <img src="https://github.com/caiocampos/readme-base/blob/master/files/animated.svg" />
 </div>
