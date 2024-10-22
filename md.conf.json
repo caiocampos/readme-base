@@ -1,7 +1,26 @@
 {
-  "input_folder": "files",
+  "input_folder": "in",
   "output_folder": "out",
   "template_files": [
+    {
+      "name": "intro.pt",
+      "input": "intro.md",
+      "parameters": [
+        {
+          "name": "hello",
+          "value": "Olá"
+        },
+        {
+          "name": "intro",
+          "value": "Eu sou o Caio, trabalho na Sysmap como desenvolvedor de software."
+        },
+        {
+          "name": "projectsIntro",
+          "value": "Para conhecer meus projetos, por favor acesse o site:"
+        }
+      ],
+      "output": "intro.pt.md"
+    },
     {
       "name": "infographic.pt",
       "input": "infographic.md",
@@ -12,6 +31,25 @@
         }
       ],
       "output": "infographic.pt.md"
+    },
+    {
+      "name": "intro.en",
+      "input": "intro.md",
+      "parameters": [
+        {
+          "name": "hello",
+          "value": "Hi there"
+        },
+        {
+          "name": "intro",
+          "value": "I'm Caio, I work at Sysmap as software developer."
+        },
+        {
+          "name": "projectsIntro",
+          "value": "To know my projects, please visit the website:"
+        }
+      ],
+      "output": "intro.en.md"
     },
     {
       "name": "infographic.en",
@@ -25,6 +63,25 @@
       "output": "infographic.en.md"
     },
     {
+      "name": "intro.es",
+      "input": "intro.md",
+      "parameters": [
+        {
+          "name": "hello",
+          "value": "Hola"
+        },
+        {
+          "name": "intro",
+          "value": "Soy Caio, trabajo en Sysmap como desarrollador de software."
+        },
+        {
+          "name": "projectsIntro",
+          "value": "Para conocer mis proyectos, por favor visite el sitio web:"
+        }
+      ],
+      "output": "intro.es.md"
+    },
+    {
       "name": "infographic.es",
       "input": "infographic.md",
       "parameters": [
@@ -34,22 +91,33 @@
         }
       ],
       "output": "infographic.es.md"
+    },
+    {
+      "name": "trailer.wm",
+      "input": "trailer.md",
+      "parameters": [
+        {
+          "name": "version",
+          "value": "ENV_VAR:VERSION"
+        }
+      ],
+      "output": "trailer.wm.md"
     }
   ],
   "files": [
     {
       "name": "pt",
-      "inputs": ["intro.pt.md", "body.md", "infographic.pt.md", "trailer.md"],
+      "inputs": ["intro.pt.md", "body.md", "infographic.pt.md", "trailer.wm.md"],
       "output": "README.md"
     },
     {
       "name": "en",
-      "inputs": ["intro.en.md", "body.md", "infographic.en.md", "trailer.md"],
+      "inputs": ["intro.en.md", "body.md", "infographic.en.md", "trailer.wm.md"],
       "output": "README.en.md"
     },
     {
       "name": "es",
-      "inputs": ["intro.es.md", "body.md", "infographic.es.md", "trailer.md"],
+      "inputs": ["intro.es.md", "body.md", "infographic.es.md", "trailer.wm.md"],
       "output": "README.es.md"
     }
   ]
