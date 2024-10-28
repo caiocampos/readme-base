@@ -33,6 +33,21 @@
       "output": "infographic.pt.md"
     },
     {
+      "name": "trailer.pt",
+      "input": "trailer.md",
+      "parameters": [
+        {
+          "name": "version",
+          "value": "ENV_VAR:VERSION"
+        },
+        {
+          "name": "builtWith",
+          "value": "Montado utilizando:"
+        }
+      ],
+      "output": "trailer.pt.md"
+    },
+    {
       "name": "intro.en",
       "input": "intro.md",
       "parameters": [
@@ -61,6 +76,21 @@
         }
       ],
       "output": "infographic.en.md"
+    },
+    {
+      "name": "trailer.en",
+      "input": "trailer.md",
+      "parameters": [
+        {
+          "name": "version",
+          "value": "ENV_VAR:VERSION"
+        },
+        {
+          "name": "builtWith",
+          "value": "Built with:"
+        }
+      ],
+      "output": "trailer.en.md"
     },
     {
       "name": "intro.es",
@@ -93,31 +123,35 @@
       "output": "infographic.es.md"
     },
     {
-      "name": "trailer.wm",
+      "name": "trailer.es",
       "input": "trailer.md",
       "parameters": [
         {
           "name": "version",
           "value": "ENV_VAR:VERSION"
+        },
+        {
+          "name": "builtWith",
+          "value": "Construido usando:"
         }
       ],
-      "output": "trailer.wm.md"
+      "output": "trailer.es.md"
     }
   ],
   "files": [
     {
       "name": "pt",
-      "inputs": ["intro.pt.md", "body.md", "infographic.pt.md", "trailer.wm.md"],
+      "inputs": ["intro.pt.md", "body.md", "infographic.pt.md", "trailer.pt.md"],
       "output": "README.md"
     },
     {
       "name": "en",
-      "inputs": ["intro.en.md", "body.md", "infographic.en.md", "trailer.wm.md"],
+      "inputs": ["intro.en.md", "body.md", "infographic.en.md", "trailer.en.md"],
       "output": "README.en.md"
     },
     {
       "name": "es",
-      "inputs": ["intro.es.md", "body.md", "infographic.es.md", "trailer.wm.md"],
+      "inputs": ["intro.es.md", "body.md", "infographic.es.md", "trailer.es.md"],
       "output": "README.es.md"
     }
   ]
