@@ -142,7 +142,7 @@
     {
       "name": "pt",
       "inputs": ["intro.pt.md", "body.md", "infographic.pt.md", "trailer.pt.md"],
-      "output": "README.md"
+      "output": "README.pt.md"
     },
     {
       "name": "en",
@@ -153,6 +153,11 @@
       "name": "es",
       "inputs": ["intro.es.md", "body.md", "infographic.es.md", "trailer.es.md"],
       "output": "README.es.md"
+    },
+    {
+      "name": "main",
+      "inputs": ["intro.en.md", "body.md", "infographic.en.md", "trailer.en.md"],
+      "output": "README.md"
     }
   ]
 }
