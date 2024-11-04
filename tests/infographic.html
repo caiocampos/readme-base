@@ -1,5 +1,5 @@
 
-<details>
+<details open>
   <summary>
     {{infographic}}
     <img align="middle" title="{{infographic}}" src="https://cdn.iconscout.com/icon/premium/png-32-thumb/infographic-management-732672.png" alt="Infographic"/>
