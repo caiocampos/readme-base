@@ -25,10 +25,4 @@
     </span>
   </div>
 
-  <div align="center">
-    <a title="Skills chart" href="https://profile.codersrank.io/user/caiocampos">
-      <img title="Skills chart" src="https://raw.githubusercontent.com/caiocampos/CaioCampos/master/cr-skills-chart-widget.svg"  alt="Skills chart"/><!--
- --></a>
-  </div>
-
 </details>
