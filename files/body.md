@@ -60,15 +60,16 @@
   <img title="MobX" alt="MobX" src="https://img.shields.io/badge/MobX-EEE?style=for-the-badge&logo=mobx&logoColor=E25F18" />
   <img title="Redux" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img title="React Router" alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img title="Styled-components" alt="Styled-components" src="https://img.shields.io/badge/styled--components-323232?style=for-the-badge&logo=styled-components&logoColor=DB78C7" />
   <img title="Angular" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img title="HTML5" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img title="SVG" alt="SVG" src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black" />
   <img title="CSS3" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img title="Tailwind CSS" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img title="SASS" alt="SASS" src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img title="Less" alt="Less" src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white" />
+  <img title="Tailwind CSS" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img title="Styled-components" alt="Styled-components" src="https://img.shields.io/badge/styled--components-323232?style=for-the-badge&logo=styled-components&logoColor=DB78C7" />
   <img title="Material-UI" alt="Material-UI" src="https://img.shields.io/badge/Material--UI-212121?style=for-the-badge&logo=mui&logoColor=00B0FF" />
+  <img title="SHADCN/UI" alt="SHADCN/UI" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img title="Ant Design" alt="Ant Design" src="https://img.shields.io/badge/Ant_Design-EEE?style=for-the-badge&logo=ant-design&logoColor=0170FE" />
   <img title="Bootstrap" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img title="Nativewind" alt="Nativewind" src="https://img.shields.io/badge/Nativewind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
