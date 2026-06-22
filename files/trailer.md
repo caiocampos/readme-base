@@ -12,4 +12,12 @@
 [MD-Fuse](https://github.com/caiocampos/md-fuse)
 [MD-Fuse-py](https://github.com/caiocampos/md-fuse-py)
 
+{{specialThanksTo}}
+[Pop Shop Packs](https://pop-shop-packs.itch.io)
+[Platane](https://github.com/Platane/snk)
+[lowlighter](https://github.com/lowlighter/metrics)
+[gh-metrics](https://github.com/gh-metrics/metrics)
+[anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+[stats-organization](https://github.com/stats-organization/github-readme-stats-action)
+
 [comment]: # (version: {{version}})
