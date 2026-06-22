@@ -17,7 +17,7 @@
 [Platane](https://github.com/Platane/snk),
 [lowlighter](https://github.com/lowlighter/metrics),
 [gh-metrics](https://github.com/gh-metrics/metrics),
-[anuraghazra](https://github.com/anuraghazra/github-readme-stats),
+[anuraghazra](https://github.com/anuraghazra/github-readme-stats) {{and}}
 [stats-organization](https://github.com/stats-organization/github-readme-stats-action)!
 
 [comment]: # (version: {{version}})
