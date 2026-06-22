@@ -43,6 +43,10 @@
         {
           "name": "builtWith",
           "value": "Montado utilizando:"
+        },
+        {
+          "name": "specialThanksTo",
+          "value": "Agradecimentos especiais a:"
         }
       ],
       "output": "trailer.pt.md"
@@ -88,6 +92,10 @@
         {
           "name": "builtWith",
           "value": "Built with:"
+        },
+        {
+          "name": "specialThanksTo",
+          "value": "Special thanks to:"
         }
       ],
       "output": "trailer.en.md"
@@ -133,6 +141,10 @@
         {
           "name": "builtWith",
           "value": "Construido usando:"
+        },
+        {
+          "name": "specialThanksTo",
+          "value": "Agradecimientos especiales a:"
         }
       ],
       "output": "trailer.es.md"
