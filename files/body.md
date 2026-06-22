@@ -90,7 +90,6 @@
   <img title="Linux" alt="Linux" src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img title="Ubuntu" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-333?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
   <img title="Docker" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img title="Shell" alt="Shell" src="https://img.shields.io/badge/Shell-000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img title="Bash" alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img title="VS Code" alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/VS_Code-0078d7?style=for-the-badge&logo=vsc&logoColor=white" />
   <img title="Eclipse" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
