@@ -20,12 +20,6 @@
       <img src="https://cdn.iconscout.com/icon/free/png-32/github-108-438008.png" alt="Github"/><!--
  --></a>
   </span>
-  &ensp;
-  <span>
-    <a title="CodersRank" href="https://profile.codersrank.io/user/caiocampos">
-      <img src="https://profile.codersrank.io/static/favicon-32x32.png" alt="CodersRank"/><!--
- --></a>
-  </span>
 </div>
 
 ---
@@ -53,7 +47,7 @@
   <img title="Azure" alt="Azure" src="https://custom-icon-badges.demolab.com/badge/Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white" />
   <img title="Git" alt="Git" src="https://img.shields.io/badge/GIT-EEE?style=for-the-badge&logo=git&logoColor=F05033" />
   <img title="GitHub" alt="GitHub" src="https://img.shields.io/badge/GITHUB-9CDAF0?style=for-the-badge&logo=github&logoColor=black" />
-  <img title="Github Actions" alt="Github Actions" src="https://img.shields.io/badge/GH_ACTIONS-333?style=for-the-badge&logo=github-actions&logoColor=2088FF" />
+  <img title="Github Actions" alt="Github Actions" src="https://img.shields.io/badge/GH_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img title="Node.js" alt="Node.js" src="https://img.shields.io/badge/NODE.JS-393?style=for-the-badge&logo=node.js&logoColor=white" />
   <img title="NestJS" alt="NestJS" src="https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
   <img title="Express.js" alt="Express.js" src="https://img.shields.io/badge/Express.js-EEE?style=for-the-badge&logo=express&logoColor=black" />
